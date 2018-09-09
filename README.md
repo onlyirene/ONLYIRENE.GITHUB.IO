@@ -40,9 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Hello World!
 My name is github_onlyirene
 
-##change to remote copy 4:44pm
+##change to remote copy
 
-## Change to remote copy 4:51pm
-
-## change to remote copy 4:54pm
+##change to remote copy 6:12pm 
 
