@@ -40,19 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Hello World!
 My name is github_onlyirene
 
-##change to remote copy 4:44pm
-
-## Change to remote copy 4:51pm
-
-## change to remote copy 4:54pm
-
-## change to remote copy 5:03pm
-
-## change to remote copy 5:29pm
-
-## change to remote copy 5:41pm
-
-## change to remote copy 5:46pm
-
-## change to remote copy 5:54pm
+##change to remote copy
 
