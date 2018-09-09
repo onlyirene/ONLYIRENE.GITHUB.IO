@@ -4,6 +4,4 @@ README2 FILE
 ## this is my 2nd header
 ### this is my 3rd header
 
-### Readme2 file change on local branch 4:52pm
-
-## Readme2 file change on local branch 5:03pm
+### Readme2 file change on local branch
